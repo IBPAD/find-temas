@@ -5,7 +5,7 @@ with open("README.md", "r") as file:
 
 setup(
     name='find-temas',
-    version='0.1',
+    version='0.2',
     author="Jeferson Alves",
     author_email="ferreira.jefersonn@gmail.com",
     long_description=long_description,
